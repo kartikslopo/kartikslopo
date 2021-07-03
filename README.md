@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Amazon AWS, React Native ,Mobile APP dev.**
 
-- 👯 You can know about me here : [MY WEBSITE :](https://kartikfolio.000webhostapp.com/)
+- 👯 You can know about me here : [MY WEBSITE ](https://kartikfolio.000webhostapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kartikslopo](https://github.com/kartikslopo)
 
