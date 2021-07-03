@@ -1,13 +1,13 @@
 
 
 
-<p><img width ="400px" height="250px" src ="https://github.com/kartikslopo/kartikslopo/blob/main/gif.gif " align="center"></p>
+<img width ="400px" height="250px" src ="https://github.com/kartikslopo/kartikslopo/blob/main/gif.gif " align="center">
 
 
 <h1 align="center">Hi 👋, I'm Kartik Srivastava</h1>
 <h3 align="center">Software Development Engineer | Full Stack Web developer | Student | Freelancer</h3>
 
-<p><img width ="400px" height="250px" src ="https://github.com/kartikslopo/kartikslopo/blob/main/gif.gif " align="center"></p>
+
 
 - 🔭 I’m currently a **Full Stack Web developer - MERN Stack**
 
