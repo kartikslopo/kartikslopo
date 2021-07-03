@@ -49,5 +49,5 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikslopo&show_icons=true&locale=en&layout=compact" alt="kartikslopo" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kartikslopo&show_icons=true&locale=en" alt="kartikslopo"/></p>
+<p>&nbsp;<img align="right" margin-bottom="50px" src="https://github-readme-stats.vercel.app/api?username=kartikslopo&show_icons=true&locale=en" alt="kartikslopo"/></p>
 
