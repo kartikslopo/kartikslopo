@@ -1,7 +1,7 @@
 
 
 
-<img align="center" width ="400px" height="250px" src ="https://github.com/kartikslopo/kartikslopo/blob/main/gif.gif " >
+<img align="center" width ="1000px" height="250px" src ="https://github.com/kartikslopo/kartikslopo/blob/main/gif.gif " >
 
 
 <h1 align="center">Hi 👋, I'm Kartik Srivastava</h1>
